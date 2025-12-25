@@ -12,7 +12,7 @@ A Python-based command-line application to track daily expenses and view monthly
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Tana-jouhou72/expense-tracker.git
+   git clone https://github.com/Tana-jouhou72/Monthly-Expense-Tracker.git
    cd expense-tracker
 
    1. install dependencies: pip install -r requirements.txt
