@@ -8,7 +8,6 @@ __pycache__/
 venv/
 env/
 
-# Ignore the CSV data files and folders created by your program
-# This ensures your personal financial data stays local
+#exclude personal data
 *.csv
 202*/
