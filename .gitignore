@@ -1,0 +1,14 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Ignore virtual environments
+.venv
+venv/
+env/
+
+# Ignore the CSV data files and folders created by your program
+# This ensures your personal financial data stays local
+*.csv
+202*/
